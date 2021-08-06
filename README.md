@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LathiyaMihir57
 - 👀 I’m interested in Developing stuff
-- 🌱 I’m currently learning MCA
+- 🌱 I’m currently persuing MCA
 - 📫 How to reach me @mihirlathiya2@gmail.com
 
 <!---
